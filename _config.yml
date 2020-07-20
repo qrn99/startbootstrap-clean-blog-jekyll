@@ -1,4 +1,4 @@
-title:              Ruo Ning (Nancy) Qiu
+title:               Ruo Ning (Nancy) Qiu
 email:              ruoning99@hotmail.com
 description:        A personal blog
 author:             Start Bootstrap
@@ -23,5 +23,3 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
-
-remote_theme: StartBootstrap/jekyll-theme-clean-blog
