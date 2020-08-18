@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7227d745-14c5-4e89-8e45-e76651add260" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-07-31-Week 5 of FUSRP.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-07-31-Week 4 of FUSRP.html" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-07-31-Week 4 of FUSRP.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/posts/03.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,20 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2020-07-31-Week 4 of FUSRP.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2020-07-31-Week 5 of FUSRP.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -57,8 +57,8 @@
         <option value="$PROJECT_DIR$/_posts/2020-07-26-Week 3 of FUSRP.html" />
         <option value="$PROJECT_DIR$/_posts/2020-07-17-Week 2 of FUSRP.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_posts/2020-07-31-Week 4 of FUSRP.html" />
         <option value="$PROJECT_DIR$/_posts/2020-07-31-Week 5 of FUSRP.html" />
+        <option value="$PROJECT_DIR$/_posts/2020-07-31-Week 4 of FUSRP.html" />
       </list>
     </option>
   </component>
@@ -295,17 +295,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-07-31-Week 4 of FUSRP.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2020-07-31-Week 5 of FUSRP.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2020-07-31-Week 4 of FUSRP.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
         </state>
       </provider>
     </entry>
